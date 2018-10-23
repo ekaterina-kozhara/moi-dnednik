@@ -1,0 +1,13 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700,900,900i&subset=cyrillic,latin-ext');
+section {
+  position: relative;
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  background-image: url("bg.jpg");
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+}
