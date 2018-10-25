@@ -141,7 +141,6 @@ opacity: 0.1;
 .box2, .box3, .box11 {
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: -50px;
   display: flex;
   flex-direction: row;
   justify-content: center;
